@@ -26,8 +26,21 @@ Also, the EFI was tested with `13.6.3` MacOS version and OpenCore `0.9.7`.
 
 # building ...
 
-Benchmarks
+### Benchmarks
 
-10/01/2024
-CPU: https://browser.geekbench.com/v6/cpu/4341157
-GPU: https://browser.geekbench.com/v6/compute/1572448
+**10/01/2024**
+
+- CPU: https://browser.geekbench.com/v6/cpu/4341157
+- GPU: https://browser.geekbench.com/v6/compute/1572448
+
+### Used APPS
+
+- [Karabiner Elements](https://karabiner-elements.pqrs.org): For keyboard remapping
+- [Maccy](https://maccy.app): Clipboard manager
+- [Alt-Tab](https://alt-tab-macos.netlify.app): windows switcher like Windows
+- [Iina](https://iina.io) Modern mac media player
+- [DevToys](https://devtoys.app) Tools for devs
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) External monitor control options
+- [Rectangle](https://rectangleapp.com) Window resizer
+- [Orion](https://kagi.com/orion/) Mac browser
+- [AppCleaner](https://freemacsoft.net/appcleaner/) Full app's uninstall
