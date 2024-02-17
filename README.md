@@ -25,3 +25,9 @@ Also, the EFI was tested with `13.6.3` MacOS version and OpenCore `0.9.7`.
 | Audio         |                                                                                 |
 
 # building ...
+
+Benchmarks
+
+10/01/2024
+CPU: https://browser.geekbench.com/v6/cpu/4341157
+GPU: https://browser.geekbench.com/v6/compute/1572448
